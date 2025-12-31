@@ -15,6 +15,7 @@ Before diving into contributions to the IvorySQL community, feel free to read th
 在投身 IvorySQL 社区贡献之前，不妨先读一读 [IvorySQL 贡献指南](https://www.ivorysql.org/zh-cn/contribution-guidelines/)。它会帮你快速摸清贡献流程，让你少走弯路，更高效地参与到社区建设中。
 
 ## Join & Contact Community/加入&联系社区
+- [IvorySQL Twitter](https://x.com/IvorySql)
 - [IvorySQL Discord](https://discord.gg/dxDCwPzg)/[加入IvorySQL Discord频道](https://discord.gg/dxDCwPzg)
 - [IvorySQL Users](https://lists.ivorysql.org/postorius/lists/general.ivorysql.org/)/[加入IvorySQL 用户邮件列表](https://lists.ivorysql.org/postorius/lists/general.ivorysql.org/)
 - [IvorySQL Hackers](https://lists.ivorysql.org/postorius/lists/hackers.ivorysql.org/)/[加入IvorySQL Hackers邮件列表](https://lists.ivorysql.org/postorius/lists/hackers.ivorysql.org/)
